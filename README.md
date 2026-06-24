@@ -257,8 +257,12 @@ The application allows users to input relevant information and receive predicted
 
 ## Visualizations
 
-![Visualization 3](RESOURCES/3.png)
+![1](RESOURCES/3.png)
 
-![Visualization 4](RESOURCES/4.png)
 
-![Visualization 5](RESOURCES/5.png)
+
+![2](RESOURCES/4.png)
+
+
+
+![3](RESOURCES/5.png)
